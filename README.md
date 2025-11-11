@@ -12,4 +12,5 @@ Automatically save and load data
 How to run:
 1.Clone the project or download the files.
 2.Make sure you have Python 3.8 or higher installed.
-3.Run the main file.
+3.Run the main file:
+main.py
